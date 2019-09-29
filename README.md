@@ -4,6 +4,9 @@
 Objetivo do repo é fazer um Jogo da forca:
 Ps: Nunca vi Python na minha vida.
 
+Link da live:   
+https://www.twitch.tv/videos/487966740   
+
 Ex:
 Output
 ```shell
